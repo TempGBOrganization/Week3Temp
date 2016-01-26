@@ -1,8 +1,8 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class VelocityScript : MonoBehaviour {
-	public float startSpeed = 50;
+	public float startSpeed = 100;
 
 	// Use this for initialization
 	void Start () {
